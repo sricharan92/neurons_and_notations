@@ -9,3 +9,6 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+# content/ is the Obsidian vault (edited via Obsidian Sync) and is committed
+# so GitHub can build the site; .obsidian settings and private/ stay out.
